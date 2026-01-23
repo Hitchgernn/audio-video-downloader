@@ -22,7 +22,6 @@ Downloaded files are saved automatically to your `~/Downloads` folder.
 
 ## Requirements
 
-- Linux
 - Python 3.9+
 - ffmpeg
 
